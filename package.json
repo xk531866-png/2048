@@ -1,0 +1,13 @@
+{
+  "name": "2048",
+  "type": "3d",
+  "version": "1.0.0",
+  "uuid": "8d06bee5-f7a3-4c36-aaf1-190a16772a62",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "pink": {
+    "uuid": "addd5799-525f-436b-a748-857dc8080b6b",
+    "version": "1.110.1"
+  }
+}
